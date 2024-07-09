@@ -1,20 +1,6 @@
 
 # Java 技术书籍大全
 
-本文档目前已收录 <b>277</b>本 Java相关领域经典技术书籍，从初级开发者到资深架构师，涵盖 Java 从业者的各个阶段，并持续更新。
-
-涵盖领域：Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
-
-推荐书籍可以点击 -> **[点击这里](https://github.com/sorenduan/awesome-java-books/issues)**
-
-书籍列表 -> **[点击这里](https://github.com/sorenduan/awesome-java-books/blob/master/README.md)**
-
-[![awesome-java-books](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorenduan/awesome-java-books)
-[![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg?label=Stars)](https://github.com/sorenduan/awesome-java-books/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/sorenduan/awesome-java-books.svg?label=Watchers)](https://github.com/sorenduan/awesome-java-books/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/sorenduan/awesome-java-books.svg?label=Forks)](https://github.com/sorenduan/awesome-java-books/fork)
-[![GitHub followers](https://img.shields.io/github/followers/sorenduan.svg?label=Followers)](https://github.com/sorenduan)
-
 <h3>目录：</h3>
 
 * [入门书籍](https://github.com/sorenduan/awesome-java-books/blob/master/README.md#入门书籍)
